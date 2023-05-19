@@ -1,2 +1,5 @@
-# ADS-509---Applied-Text-Mining---Team-1
-Final Team Project
+# ADS-509: Final Team Project-Team 1
+
+## Renetta Nelson
+## Jacqueline Urenda
+
