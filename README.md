@@ -1,5 +1,6 @@
-# Team 1 Project: Classification of Hotel Reviews
+# Classification of Hotel Reviews
 
+## Team 1
 ## Team Members: Renetta Nelson, Jacqueline Urenda
 
 ## Objective
@@ -22,7 +23,12 @@ Data from different hotels in San Diego will be scraped from TripAdvisor website
  - Model Prediction
  - Model Evaluation
 
-## Technolgies
+## Technologies
 - Python
-- BeautifulSoup
 - Jupyter Notebook
+
+## Required Libraries
+- BeautifulSoup
+- Requests
+- Pandas
+- CSV
