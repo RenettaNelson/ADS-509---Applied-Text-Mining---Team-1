@@ -24,5 +24,5 @@ Data from different hotels in San Diego will be scraped from TripAdvisor website
 
 ## Technolgies
 - Python
-- SQL
+- BeautifulSoup
 - Jupyter Notebook
