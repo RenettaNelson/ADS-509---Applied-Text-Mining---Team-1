@@ -13,4 +13,16 @@ TripAdvisor Website
 Data from different hotels in San Diego will be scraped from TripAdvisor website. The following information will be extracted from the website: hotel names, ratings, number of reviews, and prices. There are a total of 453 listed hotel properties for San Diego on the Tripadvisor website. The count of reviews vary by hotel.
 
 
+## Methods Used
+ - Web Scraping
+ - Data Preparation
+ - Exploratory Data Analysis
+ - Training / Testing Split
+ - Model Training
+ - Model Prediction
+ - Model Evaluation
 
+## Technolgies
+- Python
+- SQL
+- Jupyter Notebook
